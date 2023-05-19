@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![COBBY_BADGE](https://cobby-play.com/api/user/badge/MJun111)
+![COBBY_BADGE](https://cobby-play.com/api/user/badge/MJun111?theme=2)
 
 <!--
 **MJun111/MJun111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
